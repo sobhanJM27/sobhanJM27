@@ -11,8 +11,11 @@
 
 ## 📫 Connect with Me  
 *Telegram:* @sbhn_jm27
+
 *Instagram:* sobhan_jm27
+
 *Linkedin:* Sobhan Jamshidi
+
 *Email:* sobhanj27@gmail.com
 
 ⭐ **Check out my projects and feel free to contribute!** 🚀
