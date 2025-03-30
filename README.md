@@ -10,11 +10,11 @@
 - **State Management:** Redux, React Query  
 
 ## 📫 Connect with Me  
-*Telegram:* @sbhn_jm27
+*Telegram:* https://t.me/sbhn_jm27
 
-*Instagram:* sobhan_jm27
+*Instagram:* https://instagram.com/sobhan_jm27
 
-*Linkedin:* Sobhan Jamshidi
+*Linkedin:* [Sobhan Jamshidi](https://www.linkedin.com/in/sobhan-jamshidi)
 
 *Email:* sobhanj27@gmail.com
 
