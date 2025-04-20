@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack  
 - **Frontend:** React.js, JavaScript, TypeScript
 - **CSS:** SASS, Tailwind CSS
-- **State Management:** Redux, React Query  
+- **State Management:** Redux, React Query, ContextApi  
 
 ## 📫 Connect with Me  
 *Telegram:* https://t.me/sbhn_jm27
