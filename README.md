@@ -5,9 +5,9 @@
 💡 Always exploring new technologies and contributing to open-source projects.  
 
 ## 🔧 Tech Stack  
-- **Frontend:** React.js, JavaScript, TypeScript
+- **Frontend:** React.js, JavaScript, TypeScript, Next.js
 - **CSS:** SASS, Tailwind CSS
-- **State Management:** Redux, React Query, ContextApi  
+- **State Management:** Redux, React Query, ContextApi, Zustand  
 
 ## 📫 Connect with Me  
 *Telegram:* https://t.me/sbhn_jm27
