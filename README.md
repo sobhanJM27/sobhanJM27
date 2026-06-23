@@ -1,90 +1,116 @@
-<!-- 🔹 Header with Gradient Background -->
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Sobhan%20Jamshidi&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Sobhan%20Jamshidi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Fullstack Developer | React & Node.js Enthusiast</h3>
+<h3 align="center">⚡ Fullstack Developer | React • Node • TypeScript</h3>
 
 <p align="center">
-  🎨 Building modern, scalable, and high-performance web apps <br/>
-  💡 Always exploring new technologies & contributing to open-source
-</p>
-
----
-
-<!-- 🔹 Tech Stack with Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:646A73,100:0B2447&height=70&section=header&text=🔧%20Tech%20Stack&fontSize=24&fontColor=ffffff" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <b>Frontend</b><br/><br/>
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/>  
-      <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs"/>  
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>  
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>  
-    </td>
-    <td align="center" width="220">
-      <b>CSS & Styling</b><br/><br/>
-      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white"/>  
-    </td>
-    <td align="center" width="220">
-      <b>State Management</b><br/><br/>
-      <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/-Zustand-44318D?logo=react&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/-ContextAPI-FF9800?logo=react&logoColor=white"/>  
-    </td>
-    <td align="center" width="220">
-      <b>Backend</b><br/><br/>
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/>  
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- 🔹 GitHub Stats with Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:94332C,100:A80E03&height=70&section=header&text=📊%20GitHub%20Stats&fontSize=24&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sobhanJM27&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanJM27&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
+Building scalable web apps with clean architecture, performance focus, and modern UX.
 </p>
 
 ---
 
-<!-- 🔹 Connect with Me with Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:318548,100:03571A&height=70&section=header&text=📫%20Connect%20with%20Me&fontSize=24&fontColor=ffffff" />
-</p>
+## 🧠 About Me
+
+- 🚀 Passionate about scalable frontend & backend systems  
+- ⚛️ React / Next.js ecosystem enthusiast  
+- 🧩 Love modular architecture & clean code  
+- 🌍 Always learning new web technologies  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://t.me/sbhn_jm27" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/sobhan_jm27" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sobhan-jamshidi-514b54339" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sobhanj27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,nodejs,express,mongodb,redux,git,figma" />
+
 </p>
 
 ---
 
-<!-- 🔹 Footer Background -->
+## ⚙️ What I Build
+
+- 🧱 Scalable frontend architectures  
+- 🔐 Authentication systems (JWT / OAuth)  
+- 📦 REST & API-driven apps  
+- 🛒 E-commerce platforms  
+- 📊 Dashboard systems  
+- ☁️ Backend services & APIs  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhanJM27&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanJM27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-⭐ **Check out my projects and feel free to contribute!** 🚀
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhanJM27&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+  <a href="https://instagram.com/sobhan_jm27">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
+  </a>
+
+  <a href="mailto:sobhanj27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sobhan-jamshidi-514b54339">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/sobhanJM27">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+  </a>
+
+</div>
+
+---
+
+## 👨🏻‍💻  A Little Bit About Me and My Interests
+```javascript
+name: "Sobhan Jamshidi"
+located_in: "Tehran, Iran"
+current_job: "Fullstack Developer (React, Next.js, Node.js)"
+
+education:
+  - university: "Kharazmi University"
+    degree: "B.Sc. Computer Science"
+    focus_areas:
+      - "Data Structures & Algorithms"
+      - "Software Engineering"
+      - "Artificial Intelligence (Basics)"
+    key_courses:
+      - "Operating Systems"
+      - "Database Systems"
+      - "Object-Oriented Programming"
+
+fields_of_interests:
+  - "Web Development"
+  - "Machine Learning"
+  - "Robotics"
+```
+---
+
+<p align="center">
+  ⭐ <b>Always building, always learning</b> 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
+</p>
