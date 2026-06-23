@@ -20,7 +20,7 @@ Building scalable web apps with clean architecture, performance focus, and moder
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <a id="about"></a>
 
 <p align="center">
 
@@ -74,7 +74,7 @@ Building scalable web apps with clean architecture, performance focus, and moder
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/sobhanJM27">
+  <a href="#about">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
 
@@ -82,7 +82,7 @@ Building scalable web apps with clean architecture, performance focus, and moder
 
 ---
 
-## 👨🏻‍💻  A Little Bit About Me and My Interests
+## 👨🏻‍💻  A Little Bit About Me and My Interests <a id="about"></a>
 ```javascript
 name: "Sobhan Jamshidi"
 located_in: "Tehran, Iran"
