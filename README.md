@@ -20,7 +20,7 @@ Building scalable web apps with clean architecture, performance focus, and moder
 
 ---
 
-## 🛠 Tech Stack <a id="about"></a>
+## 🛠 Tech Stack
 
 <p align="center">
 
